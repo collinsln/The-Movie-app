@@ -1,0 +1,210 @@
+
+
+.ui.card.custom-card {
+  width:180px;
+  height: 360px;
+  margin:30px;
+  
+}
+ .ui.grid{
+  color: #343739;
+ }
+ 
+.space-cards{
+  align-items: center;
+}
+.search-container{
+  margin-top:0px;
+
+}
+.space-movie-card{
+  margin-bottom:30px;
+  margin-top: 20px;
+}
+.addButton{
+  margin-top:0px;
+  width:100px;
+  margin-left:0px;
+}
+.cancelButton{
+  margin-left:10px;
+}
+.addMovieDiv{
+  margin-top: 20px;
+}
+.custom-search-bar {
+  width: 93%;
+  margin-left:48px;
+  height: 10px;
+  color: black;
+  border-radius: 10px;
+  border-width: 10px;
+  background-color: white;
+  margin-top: 20px;
+  margin-bottom: 30px;;
+ 
+ 
+}
+.main-table{
+  width:80%;
+  margin-top:60px;
+}
+.ui.fluid.icon.input input::placeholder {
+  color: rgba(0, 0, 0, 0.8); 
+  opacity: 1; 
+}
+
+.space{
+  padding-top: 25px;
+  color:black;
+}
+#titleCard{
+  color:black
+}
+
+.color-header {
+  background-color:#343739;
+  padding: 10px;
+  width:96%;
+  margin-left:20px;
+}
+.twelve.wide.column.custom-background{
+  margin-top:30px;
+  margin-left:5px;
+  
+  width: 99%;
+ 
+
+}
+
+.movie-header{
+ margin-bottom:15px ;
+ text-align: center;
+ 
+
+
+}
+.container{
+  background-color: #343739;
+  width:1000px;
+  margin-left:20px;
+  
+  
+}
+
+
+.header-four{
+ 
+  margin-left: 8px;
+
+}
+
+.ui.basic.button.new-button{
+  margin-left: 20px;
+  margin-bottom: 20px;
+  color: black;
+  
+  
+}
+.ui.basic.button.new-button.directors{
+  margin-left: 10px;
+}
+.button-components-container{
+  margin-top: 20px;
+  border-width: 10px;
+
+}
+.ui.grid.four.wide.column {
+  width: 25%;
+  
+}
+.form-container{
+margin-top:20px;
+margin-bottom: 10px;
+margin-left:30px;
+display:block;
+justify-content: space-between;
+border: 1px solid;
+width: 960px;
+
+}
+
+.form input{
+  margin:10px;
+}
+#title{
+  margin:20px;
+  height:30px;
+  width:300px;
+  
+}
+#director{
+  width:240px;
+  height:30px;
+  margin-right: 70px;
+  margin-left:50px;
+}
+
+
+#ratings{
+  width:180px;
+  height: 30px;
+  margin-left:35px;
+
+}
+#add-image{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#comments{
+  width:300px;
+  height:70px;
+  margin-left: 80px;
+
+}
+
+
+.filter{
+  margin-top: 30px;
+  margin-left: 810px;
+}
+
+.form{
+  background-color: white;
+}
+.single-movie-container{
+  background-color: white;
+  
+}
+#single-image{
+  width:500px;
+  height:600px;
+  margin-left:250px;
+  margin-bottom: 10px;
+
+}
+
+#single-title{
+  margin-left:370px;
+
+
+}
+.single-details{
+  margin-left:400px;
+
+}
+.single-comment{
+  margin-top:10px;
+
+  text-align: center;
+
+}
+
+.Link{
+  text-align: center;
+  margin-left: 600px;
+}
+.delete-movie-button{
+  margin-left: 60px;
+margin-bottom:10px;
+}
